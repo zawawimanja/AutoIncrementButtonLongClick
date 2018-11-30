@@ -1,0 +1,4 @@
+#Fri Nov 30 16:20:30 SGT 2018
+base.0=C\:\\Users\\Documents\\Desktop\\codelab\\android-fundamentals-apps-v2-master\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
